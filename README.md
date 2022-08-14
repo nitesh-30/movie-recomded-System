@@ -1,3 +1,6 @@
-# movie-recomded-System
-i have made a movie escommended system whiech recommend your what type of movie you should see
-# webstie link =https://mrsbn.herokuapp.com/
+# Movie Recommender System 
+ I have created a movie recommended system by using machine learning
+ this will suggest a set of movie which you should see
+
+ # website link
+  https://mrsbn.herokuapp.com/
